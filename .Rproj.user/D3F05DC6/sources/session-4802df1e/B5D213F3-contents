@@ -61,7 +61,7 @@ ggsave("anscombe_quartet.png", width = 20, height = 20, units = "cm")
 ## PROBLEM 2 ##
 
 # load in the datasaurus dataset
-datasaurus_dozen = readRDS("datasaurus_dozen.rds")
+datasaurus_dozen = readRDS("dataset/datasaurus_dozen.rds")
 
 # explore the dataset 
 str(datasaurus_dozen)

@@ -3,7 +3,7 @@
     "path": "~/Desktop/tmp-week1/week5-Po-Kai/scripts/week5.Rmd",
     "project_path": "scripts/week5.Rmd",
     "type": "r_markdown",
-    "hash": "148902796",
+    "hash": "2473344074",
     "contents": "",
     "dirty": false,
     "created": 1711001980459.0,
@@ -12,15 +12,20 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,58",
-        "scrollLine": "0"
+        "cursorPosition": "128,29",
+        "scrollLine": "113",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "62:0",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711003561,
+    "lastKnownWriteTime": 1711005112,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711003561989,
+    "last_content_update": 1711005112807,
     "read_only": false,
     "read_only_alternatives": []
 }
