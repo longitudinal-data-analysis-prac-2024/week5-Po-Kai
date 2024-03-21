@@ -66,17 +66,6 @@ datasaurus_dozen = readRDS("datasaurus_dozen.rds")
 # explore the dataset 
 str(datasaurus_dozen)
 
-datasaurus_dozen %>% 
-  group_by(dataset) %>% 
-  summarise(
-    mean_x    = mean(x),
-    mean_y    = mean(y),
-    min_x     = min(x),
-    min_y     = min(y),
-    max_x     = max(x),
-    max_y     = max(y),
-    crrltn    = cor(x, y)
-  )
 # how many rows and columns does the datasaurus_dozen file have? 
 3 columns 1846 rows
 # plot the dataset 
@@ -88,7 +77,17 @@ require(ggplot2)
   facet_wrap(~dataset)
  
 # calculate the correlations and summary statistics for x and y in all datasets: 
-
+datasaurus_dozen %>% 
+  group_by(dataset) %>% 
+  summarise(
+    mean_x    = mean(x),
+    mean_y    = mean(y),
+    min_x     = min(x),
+    min_y     = min(y),
+    max_x     = max(x),
+    max_y     = max(y),
+    crrltn    = cor(x, y)
+  )
 # save the plot 
  
 ggsave("datasaurus_dozen.png", width = 20, height = 20, units = "cm")
