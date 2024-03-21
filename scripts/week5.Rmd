@@ -11,7 +11,7 @@ rm(list=ls())
 
 library(tidyverse)
 
-anscombe_quartet = readRDS("dataset\anscombe_quartet.rds")
+anscombe_quartet = readRDS("dataset/anscombe_quartet.rds")
 ```
 
 Let's explore the dataset
