@@ -11,7 +11,7 @@ library(tidyverse)
 > Lets look at the Anscombe’s Quartet data. There are four different data sets.
 > Anscombe, F. J. (1973). "Graphs in Statistical Analysis". American Statistician. 27 (1): 17–21. doi:10.1080/00031305.1973.10478966. JSTOR 2682899.
 
-anscombe_quartet = readRDS("dataset\anscombe_quartet.rds")
+anscombe_quartet = readRDS("dataset/anscombe_quartet.rds")
 
 # let's explore the dataset 
 str(anscombe_quartet)

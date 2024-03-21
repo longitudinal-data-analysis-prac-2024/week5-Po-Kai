@@ -1,0 +1,9 @@
+"0","require(ggplot2)"
+"2","Loading required package: ggplot2
+"
+"0"," ggplot(anscombe_quartet, aes(x=x,y=y)) +"
+"0","  geom_point() + "
+"0","  geom_smooth(method = ""lm"",formula = ""y ~ x"") +"
+"0","  facet_wrap(~dataset)"
+"2","Error: object 'anscombe_quartet' not found
+"

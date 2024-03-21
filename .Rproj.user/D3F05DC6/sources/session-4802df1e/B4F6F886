@@ -2,8 +2,8 @@
     "id": "B4F6F886",
     "path": "~/Desktop/tmp-week1/week5-Po-Kai/scripts/week5.Rmd",
     "project_path": "scripts/week5.Rmd",
-    "type": "r_source",
-    "hash": "2005178798",
+    "type": "r_markdown",
+    "hash": "148902796",
     "contents": "",
     "dirty": false,
     "created": 1711001980459.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "94,23",
-        "scrollLine": "82"
+        "cursorPosition": "13,58",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711002626,
+    "lastKnownWriteTime": 1711003561,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711002626305,
+    "last_content_update": 1711003561989,
     "read_only": false,
     "read_only_alternatives": []
 }

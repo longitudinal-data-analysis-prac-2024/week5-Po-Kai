@@ -3,7 +3,7 @@
     "path": "~/Desktop/tmp-week1/week5-Po-Kai/scripts/week5.R",
     "project_path": "scripts/week5.R",
     "type": "r_source",
-    "hash": "1099585440",
+    "hash": "4174898861",
     "contents": "",
     "dirty": false,
     "created": 1710413808532.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "89,3",
-        "scrollLine": "66"
+        "cursorPosition": "94,0",
+        "scrollLine": "72"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711001836,
+    "lastKnownWriteTime": 1711003795,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711001836295,
+    "last_content_update": 1711003795501,
     "read_only": false,
     "read_only_alternatives": []
 }
